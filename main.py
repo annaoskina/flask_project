@@ -1,16 +1,26 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 app = Flask(__name__)
 
 @app.route('/')
 def index():
     return render_template('index.html')
 
-def index_about():
-    return render_template('index_about.html')
+def get_search_results(q):
+    if q == "Akutagawa":
+        result = ["Rashomon", "Majutsu"]
+    else:
+        result = [""]
+    return result
 
-def index_data():
-    return render_template('index_data.html')
+@app.route('/search', methods=["get", "post"])
+def search():
+    q=request.values.get("q", "")
+    print(q)
+    result = get_search_results(q)
+    return render_template('search.html', q=q, result=result)
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+
 
