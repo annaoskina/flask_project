@@ -5,6 +5,23 @@ app = Flask(__name__)
 def index():
     return render_template('index.html')
 
+@app.route('/home')
+def home():
+    return render_template('home.html')
+
+@app.route('/about')
+def index_about():
+    return render_template('index_about.html')
+
+@app.route('/research')
+def index_research():
+    return render_template('index_research.html')
+
+@app.route('/data')
+def index_data():
+    return render_template('index_data.html')
+
+
 def get_search_results(q):
     if q == "Akutagawa":
         result = ["Rashomon", "Majutsu"]
