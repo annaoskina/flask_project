@@ -1,0 +1,91 @@
+Author,Date_of_birth,Date_of_death,Reason_of_death,Education,Specialization,Writing,Filename,Year,Style_1,Main_topic,katakana_romaji,romaji_kanji,kanji_katakana
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Kappa,kappa.txt,1927,neorealism,suffering of modern intellectuals ,-0.1215474,-0.1005515,0.9179543
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Haguruma,haguruma.txt,1927,neorealism,suffering of modern intellectuals ,0.6459856,0.8086595,0.6884672
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Rashomon,rashomon_kyu.txt,1915,neorealism,suffering of modern intellectuals ,NA,NA,NA
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Hana,hana.txt,1916,neorealism,suffering of modern intellectuals ,NA,NA,NA
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Imogayu,imogayu.txt,1916,neorealism,suffering of modern intellectuals ,NA,NA,NA
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Hankachi,hankechi.txt,1916,neorealism,suffering of modern intellectuals ,NA,NA,NA
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Tabako to akuma,tabakoto_akuma.txt,1917,neorealism,suffering of modern intellectuals ,NA,NA,NA
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Jigokuhen,jigokuhen_shohan.txt,1918,neorealism,suffering of modern intellectuals ,NA,NA,NA
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Kumo no ito,kumono_ito.txt,1918,neorealism,suffering of modern intellectuals ,NA,NA,NA
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Chuto,chuto.txt,1917,neorealism,suffering of modern intellectuals ,NA,NA,NA
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Gesaku zanmai,gesaku_zanmai.txt,1917,neorealism,suffering of modern intellectuals ,NA,NA,NA
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Hokyonin no shi,hokyoninno_shi.txt,1918,neorealism,suffering of modern intellectuals ,NA,NA,NA
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Kare no sho,karenosho.txt,1918,neorealism,suffering of modern intellectuals ,NA,NA,NA
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Kirishitohoro shoninden,kirishitohoro_shoninden.txt,1919,neorealism,suffering of modern intellectuals ,NA,NA,NA
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Mikan,mikan.txt,1919,neorealism,suffering of modern intellectuals ,NA,NA,NA
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Butokai,butokai.txt,1920,neorealism,suffering of modern intellectuals ,NA,NA,NA
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Aki,aki.txt,1920,neorealism,suffering of modern intellectuals ,NA,NA,NA
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Toshishun,toshishun.txt,1920,neorealism,suffering of modern intellectuals ,NA,NA,NA
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Yabu no naka,yabuno_naka.txt,1922,neorealism,suffering of modern intellectuals ,NA,NA,NA
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Tokokko,torokko.txt,1922,neorealism,suffering of modern intellectuals ,NA,NA,NA
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Yasukichi no techo kara,yasukichino_techokara.txt,1923,neorealism,suffering of modern intellectuals ,NA,NA,NA
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Genkaku sanbo,genkaku_sanbo.txt,1927,neorealism,suffering of modern intellectuals ,NA,NA,NA
+Akutagawa Ryunosuke,1892,1927,suicide,Tokyo University,English literature,Majutsu,majutsu.txt,1920,neorealism,suffering of modern intellectuals ,NA,NA,NA
+Arishima Takeo,1878,1923,suicide,Sapporo Agricultural College,Agriculture,Kain no matsuei,kainno_matsuei.txt,1917,shirakaba,christianity,-0.3417338,-0.676802,0.5724554
+Arishima Takeo,1878,1923,suicide,Sapporo Agricultural College,Agriculture,Umareizuru nayami,umareizuru_nayami.txt,1918,shirakaba,christianity,0.06751412,-0.2781271,0.5554864
+Arishima Takeo,1878,1923,suicide,Sapporo Agricultural College,Agriculture,Aruonna_kohen,02aru_onna_kohen.txt,1919,shirakaba,christianity,0.2895439,-0.1283868,-0.1010267
+Arishima Takeo,1878,1923,suicide,Sapporo Agricultural College,Agriculture,Aruonna_zenpen,01aru_onna_zenpen.txt,1919,shirakaba,christianity,0.4092266,0.1986317,0.430276
+Arishima Takeo,1878,1923,suicide,Sapporo Agricultural College,Agriculture,Kankan mushi,kankanmusi.txt,1910,shirakaba,christianity,NA,NA,NA
+Arishima Takeo,1878,1923,suicide,Sapporo Agricultural College,Agriculture,Chiisaki monoe,chiisaki_monoe.txt,1918,shirakaba,christianity,NA,NA,NA
+Futabatei Shimei,1864,1909,tuberculosis,Tokyo Universtiy of Foreign Studies,Russian literature,Heibon,heibon.txt,1907,realism,genbun itchi,-0.12688648,0.08287419,-0.10252724
+Futabatei Shimei,1864,1909,tuberculosis,Tokyo Universtiy of Foreign Studies,Russian literature,Konjiki Yasha,konjikiyasha.txt,1897,pseudoclassicism,genbun itchi,-0.009603426,-0.08183061,0.4019248
+Futabatei Shimei,1864,1909,tuberculosis,Tokyo Universtiy of Foreign Studies,Russian literature,Ukigumo,ukigumo.txt,1887,realism,genbun itchi,0.216094,0.2065118,0.59471
+Higuchi Ichiyo,1872,1896,tuberculosis,Private School,Japanese literature,Take kurabe,takekurabe.txt,1896,pseudoclassicism,life of japanese women,NA,NA,NA
+Higuchi Ichiyo,1872,1896,tuberculosis,Private School,Japanese literature,Nigorie,nigorie.txt,1895,pseudoclassicism,life of japanese women,NA,NA,NA
+Higuchi Ichiyo,1872,1896,tuberculosis,Private School,Japanese literature,Jyusan'ya,jusanya_kyuji.txt,1895,pseudoclassicism,life of japanese women,NA,NA,0.9169493
+Hirotsu Ryuro,1861,1928,heart attack,Tokyo University,Medicine,Puratohomu,shokojo.txt,1905,romanticism,tragic novel,NA,NA,NA
+Izumi Kyoka,1873,1939,cancer,Hokuriku English-Japanese School,English,Onna keiju,onnakeizu.txt,1907,romanticism,grotesque and fantastic,0.051337717,-0.003321557,0.544110237
+Izumi Kyoka,1873,1939,cancer,Hokuriku English-Japanese School,English,Koya hijiri,koyahijiri.txt,1900,romanticism,grotesque and fantastic,NA,NA,NA
+Kikuchi Hiroshi,1888,1948,heart attack,Kyoto University,English literature,Mumei sakka no nikki,mumeisakkano_nikki.txt,1918,neorealism,"morality, money, class, and gender",-0.9449112,0.4193139,-0.6933752
+Kikuchi Hiroshi,1888,1948,heart attack,Kyoto University,English literature,Shinju fujin,shinju_fujin_kyukana.txt,1920,neorealism,"morality, money, class, and gender",-0.23813879,-0.004247598,0.332433259
+Kikuchi Hiroshi,1888,1948,heart attack,Kyoto University,English literature,Tadanaokyo joki,tadanaokyo_gyojoki.txt,1918,neorealism,"morality, money, class, and gender",NA,NA,NA
+Kikuchi Hiroshi,1888,1948,heart attack,Kyoto University,English literature,Onshu no kanata ni,onshuno_kanatani.txt,1919,neorealism,"morality, money, class, and gender",NA,NA,NA
+Koda Rohan,1867,1947,heart attack,Aoyama Gakuin University,English,Gojyu-no to,gojuno_to.txt,1892,"pseudoclassicism, idealism",idealism,NA,NA,0.1543033
+Kunikida Doppo,1871,1908,tuberculosis,Waseda University,English,Musashino,musashino.txt,1898,romanticism,naturalism,-0.1147079,0.5,0.9176629
+Kunikida Doppo,1871,1908,tuberculosis,Waseda University,English,Gyuniku to bareisho,gyunikuto_bareisho.txt,1901,romanticism,naturalism,-0.03394221,-0.77771377,0.6546537
+Kunikida Doppo,1871,1908,tuberculosis,Waseda University,English,Sorachigawa-no kishibe,sorachigawano_kishibe.txt,1902,romanticism,naturalism,NA,NA,NA
+Mori Ogai,1862,1922,tuberculosis,Tokyo University,"Medicine, German",Seinen,seinen.txt,1911,parnassianism,suffering of modern intellectuals ,-0.1636067,0.2065469,0.5219282
+Mori Ogai,1862,1922,tuberculosis,Tokyo University,"Medicine, German",Vita sexualis,vita_sexualis.txt,1909,parnassianism,suffering of modern intellectuals ,-0.04836497,0.79517194,0.09816326
+Mori Ogai,1862,1922,tuberculosis,Tokyo University,"Medicine, German",Gan,gan.txt,1911,parnassianism,suffering of modern intellectuals ,0.8281622,-0.2689438,-0.143693
+Mori Ogai,1862,1922,tuberculosis,Tokyo University,"Medicine, German",Moso,moso.txt,1911,parnassianism,suffering of modern intellectuals ,0.9916557,0.3857271,0.2635702
+Mori Ogai,1862,1922,tuberculosis,Tokyo University,"Medicine, German",Abe ichizoku,abe_ichizoku.txt,1913,historical fiction,suffering of modern intellectuals ,NA,NA,NA
+Mori Ogai,1862,1922,tuberculosis,Tokyo University,"Medicine, German",Sansho dayu,sanshodayu.txt,1915,historical fiction,suffering of modern intellectuals ,NA,NA,NA
+Mori Ogai,1862,1922,tuberculosis,Tokyo University,"Medicine, German",Takase bune,takasebune.txt,1916,parnassionasm,suffering of modern intellectuals ,NA,NA,NA
+Mori Ogai,1862,1922,tuberculosis,Tokyo University,"Medicine, German",Shibue Chusai,shibue_chusai.txt,1916,historical fiction,suffering of modern intellectuals ,NA,NA,0.127915
+Mori Ogai,1862,1922,tuberculosis,Tokyo University,"Medicine, German",Maihime,maihime.txt,1890,romanticism,suffering of modern intellectuals ,NA,NA,0.1301007
+Mori Ogai,1862,1922,tuberculosis,Tokyo University,"Medicine, German",Utakata no ki,utakatano_ki.txt,1890,romanticism,suffering of modern intellectuals ,NA,NA,0.9999932
+Mori Ogai,1862,1922,tuberculosis,Tokyo University,"Medicine, German",Fumizukai,fumizukai.txt,1891,romanticism,suffering of modern intellectuals ,NA,NA,0.9895596
+Mori Ogai,1862,1922,tuberculosis,Tokyo University,"Medicine, German",Okitsuya Goemon no isho,okitsu_yagoemonno_isho.txt,1912,historical fiction,suffering of modern intellectuals ,NA,NA,NA
+Nagai Kafu,1879,1959,gastric ulcer,Higher Commercial School,"Chinese, French",Sumidagawa,sumidagawa.txt,1909,aestheticism,french literature,NA,NA,-0.03951304
+Natsume Soseki,1867,1916,diabetes,Tokyo University,English literature,Kokoro,kokoro.txt,1914,parnassianism,modernization,-0.3578712,0.12733756,-0.06882426
+Natsume Soseki,1867,1916,diabetes,Tokyo University,English literature,Sorekara,sorekara.txt,1909,parnassianism,modernization,-0.1397751,-0.2179256,0.0454942
+Natsume Soseki,1867,1916,diabetes,Tokyo University,English literature,Rondonto,london.txt,1905,romanticism,modernization,-0.07993676,-0.78994776,0.6743578
+Natsume Soseki,1867,1916,diabetes,Tokyo University,English literature,Bocchan,bocchan.txt,1906,romanticism,modernization,-0.05653386,-0.21846297,-0.02043906
+Natsume Soseki,1867,1916,diabetes,Tokyo University,English literature,Higan sugimade,higansugimade.txt,1912,parnassianism,modernization,-0.04295145,-0.1409698,0.4117171
+Natsume Soseki,1867,1916,diabetes,Tokyo University,English literature,Kusamakura,kusamakura.txt,1906,parnassianism,modernization,0.1227534,-0.29916,-0.07441757
+Natsume Soseki,1867,1916,diabetes,Tokyo University,English literature,Wagahai wa neko dearu,wagahaiwa_nekodearu.txt,1905,romanticism,modernization,0.1829585,0.291079,0.3525646
+Natsume Soseki,1867,1916,diabetes,Tokyo University,English literature,Sanshiro,sanshiro.txt,1908,parnassianism,modernization,0.3122854,-0.03489241,0.40259969
+Natsume Soseki,1867,1916,diabetes,Tokyo University,English literature,Mon,mon.txt,1910,parnassianism,modernization,0.3914871,0.2217266,0.1807902
+Natsume Soseki,1867,1916,diabetes,Tokyo University,English literature,Kojin,kojin.txt,1912,parnassianism,modernization,0.5705102,0.2060029,0.03965026
+Natsume Soseki,1867,1916,diabetes,Tokyo University,English literature,Carlyle_hakubutsukan,carlyle_hakubutsukan.txt,1905,romanticism,modernization,NA,NA,NA
+Natsume Soseki,1867,1916,diabetes,Tokyo University,English literature,Nihyakutoka,nihyakutoka.txt,1906,romanticism,modernization,NA,NA,0.8497131
+Natsume Soseki,1867,1916,diabetes,Tokyo University,English literature,Gubijinso,gubijinso.txt,1907,parnassianism,modernization,NA,NA,0.06841084
+Natsume Soseki,1867,1916,diabetes,Tokyo University,English literature,Kofu,kofu.txt,1908,parnassianism,modernization,NA,NA,0.434785
+Natsume Soseki,1867,1916,diabetes,Tokyo University,English literature,Buncho,buncho.txt,1908,parnassianism,modernization,NA,NA,NA
+Natsume Soseki,1867,1916,diabetes,Tokyo University,English literature,Yume jyuya,yume_juya.txt,1908,parnassianism,modernization,NA,NA,-0.1763689
+Shimazaki Toson,1872,1943,apoplexy,Meiji Gakuin University,English,Ie_02,ie_ge.txt,1910,naturalism,romanticism,0.051520887,0.004216141,0.172139912
+Shimazaki Toson,1872,1943,apoplexy,Meiji Gakuin University,English,Ie_01,ie_jyo.txt,1908,naturalism,romanticism,0.4056314,0.1161636,-0.02728946
+Shimazaki Toson,1872,1943,apoplexy,Meiji Gakuin University,English,Hakai,hakai.txt,1908,naturalism,romanticism,NA,NA,0.5035874
+Shimazaki Toson,1872,1943,apoplexy,Meiji Gakuin University,English,Yoake mae_01,01yoakemae1_jo.txt,1929,naturalism,romanticism,NA,NA,0.1283632
+Shimazaki Toson,1872,1943,apoplexy,Meiji Gakuin University,English,Yoake mae_02,02yoakemae1_ge.txt,1929,naturalism,romanticism,NA,NA,0.2110687
+Shimazaki Toson,1872,1943,apoplexy,Meiji Gakuin University,English,Yoake mae_03,03yoakemae2_jo.txt,1929,naturalism,romanticism,NA,NA,0.5641905
+Shimazaki Toson,1872,1943,apoplexy,Meiji Gakuin University,English,Yoake mae_04,04yoakemae2_ge.txt,1929,naturalism,romanticism,NA,NA,0.2508865
+Tanizaki Junichiro,1886,1965,heart failure,Tokyo University,Japanese literature,Shonen,shonen.txt,1911,aestheticism,femme-fatal,-0.3823596,-0.3162278,0.4836508
+Tanizaki Junichiro,1886,1965,heart failure,Tokyo University,Japanese literature,Chijin no ai,chijinno_ai.txt,1924,satanism,"women's beauty, sado-masochism",0.2395547,-0.2237263,0.4482855
+Tanizaki Junichiro,1886,1965,heart failure,Tokyo University,Japanese literature,Manji,manji.txt,1928,aestheticism,bisexual love,0.6596482,0.8632595,0.5302731
+Tanizaki Junichiro,1886,1965,heart failure,Tokyo University,Japanese literature,Shisei,shisei.txt,1910,aestheticism,women's beauty,NA,NA,NA
+Tanizaki Junichiro,1886,1965,heart failure,Tokyo University,Japanese literature,Tade kuu mushi,tade_ku_mushi.txt,1928,aestheticism,east and west,NA,NA,0.3211693
+Tayama Katai,1872,1930,cancer,School of Chinese classics,Chinese,Juemon no saigo,juemonno_saigo.txt,1902,naturalism,I-novel,-0.1644297,-0.3045889,0.01351136
+Tayama Katai,1872,1930,cancer,School of Chinese classics,Chinese,Futon,futon.txt,1907,naturalism,I-novel,0.08402413,-0.03545148,0.86726628
+Tayama Katai,1872,1930,cancer,School of Chinese classics,Chinese,Inaka kyoshi,inaka_kyoshi.txt,1909,naturalism,I-novel,0.3780751,0.2709686,0.1918803
